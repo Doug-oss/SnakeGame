@@ -13,3 +13,5 @@ utilizo p5.js
  - (✓) Pause game F4
 
 ![img git](https://user-images.githubusercontent.com/54519397/106373662-8b49ad00-635a-11eb-81a8-b0f54a7b295c.png)
+
+Mudanças
