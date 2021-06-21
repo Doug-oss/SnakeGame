@@ -14,4 +14,4 @@ utilizo p5.js
 
 ![img git](https://user-images.githubusercontent.com/54519397/106373662-8b49ad00-635a-11eb-81a8-b0f54a7b295c.png)
 
-Mudanças
+ - Mudanças 21/06 : background azul
