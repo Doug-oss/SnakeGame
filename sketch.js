@@ -9,7 +9,7 @@ function setup() {
 }
 
 function draw(){
-    background(220)
+    background('#23AAEB')
     cobra.desenhoCobra()
     cobra.movimento()
     cobra.controle()
